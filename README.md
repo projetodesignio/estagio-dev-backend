@@ -13,7 +13,7 @@ Crie um fork do projeto ou clone
 git clone https://github.com/projetodesignio/estagio-dev-backend.git
 
 ```
-Após finalizar envie o e-mail, com o teste.
+Após finalizar, envie o e-mail com o teste.
 
 ### Requisitos
 
@@ -26,7 +26,7 @@ Após finalizar envie o e-mail, com o teste.
 
 ### Descrição do teste:
 
-O cliente X solicita um sistema de cadastro de clientes, o sitema deve ter os seguintes aspectos:
+O cliente X solicita um sistema de cadastro de clientes, o sistema deve ter os seguintes aspectos:
 
 * O sistema deverá permitir o cadastro de clientes;
 * O sistema deverá permitir a visualização de clientes cadastrados;
