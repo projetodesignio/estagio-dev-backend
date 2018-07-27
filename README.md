@@ -6,14 +6,14 @@ Para o preenchimento da vaga, estamos solicitando a execução de um teste basic
 
 ### Iniciando
 
-Não se preocupe se por um acaso você não conseguir finalizar o teste, nós avaliaremos a forma de analisar como você pesquisa, programa e resolve os desafios de programação, mas seria legal vê-lo pronto. 
+Não se preocupe se por um acaso você não conseguir finalizar o teste. O que nós queremos saber é a forma como você pesquisa, programa e resolve os desafios de programação, mas ter o teste pronto é interessante!
 
 Crie um fork do projeto ou clone
 ```
 git clone https://github.com/projetodesignio/estagio-dev-backend.git
 
 ```
-Após finalizar, envie o e-mail com o teste.
+Após finalizar, envie o e-mail com o link para o teste no repositório de sua preferência, Github, Gitlab ou Bitbucket.
 
 ### Requisitos
 
